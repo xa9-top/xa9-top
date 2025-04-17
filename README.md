@@ -8,13 +8,13 @@ A student from Yinchuan, Ningxia, China who loves Amateur Radio, Electronic, Emb
 
 联系方式(Contact)：
 
-微信(WeChat): Xa9_5921
+- 微信(WeChat): Xa9_5921
 
-QQ: 2042499767
+- QQ: 2042499767
 
-电子邮件(Email): [xa9.top@gmail.com](mailto:xa9.top@gmail.com)
+- 电子邮件(Email): [xa9.top@gmail.com](mailto:xa9.top@gmail.com)
 
-手机号(Phone): +86 17795059075
+- 手机号(Phone): +86 17795059075
 
 [![Xa9's GitHub stats](https://github-readme-stats.vercel.app/api?username=xa9-top)](https://github.com/anuraghazra/github-readme-stats)
 
