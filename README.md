@@ -2,8 +2,6 @@
 
 A student from Yinchuan, Ningxia, China who loves Amateur Radio, Electronic, Embedded System, Computer Science and Photography
 
-
-
 呼号(Callsign)BG9PTA
 
 这里是我的QRZ主页(QRZ)：[https://qrz.com/db/BG9PTA/](https://qrz.com/db/BG9PTA/)
@@ -14,7 +12,7 @@ A student from Yinchuan, Ningxia, China who loves Amateur Radio, Electronic, Emb
 
 QQ: 2042499767
 
-电子邮件(Email): [xa9.top@gmail.com](mailto:xa9.top@gmail.com)mailto:xa9.top@gmail.com)
+电子邮件(Email): [xa9.top@gmail.com](mailto:xa9.top@gmail.com)
 
 手机号(Phone): +86 17795059075
 
